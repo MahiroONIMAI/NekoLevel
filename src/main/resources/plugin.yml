@@ -1,0 +1,4 @@
+name: NekoLevel
+version: '${project.version}'
+main: cn.miaonai.nekolevel.NekoLevel
+author: "爱炒菜的真寻酱"
